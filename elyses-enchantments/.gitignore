@@ -1,0 +1,15 @@
+enchantments.spec.js
+HELP.md
+HINTS.md
+LICENSE
+package.json
+README.md
+node_modules/
+bin/configlet
+bin/configlet.exe
+pnpm-lock.yaml
+yarn.lock
+.exercism
+.eslintrc
+.npmrc
+babel.config.js
