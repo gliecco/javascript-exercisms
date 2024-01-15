@@ -1,0 +1,17 @@
+/node_modules
+/bin/configlet
+/bin/configlet.exe
+/pnpm-lock.yaml
+/yarn.lock
+/README.md
+/README.txt
+/HELP
+/HINT
+/LICENSE
+/package
+/.exercism
+/.eslintrc
+/.npmrc
+/babel.config
+/freelancer-rates.spec
+
