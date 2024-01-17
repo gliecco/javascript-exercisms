@@ -9,7 +9,6 @@
  */
 export function frontDoorResponse(line) {
   const firstChar = line[0];
-  console.log(firstChar);
   return firstChar;
 }
 
@@ -22,7 +21,6 @@ export function frontDoorResponse(line) {
  */
 export function frontDoorPassword(word) {
   const upperCase = word[0].toUpperCase() + word.slice(1).toLowerCase();
-  console.log(upperCase);
   return upperCase;
 }
 
@@ -35,7 +33,6 @@ export function frontDoorPassword(word) {
  */
 export function backDoorResponse(line) {
   const lastLetter = line.trim().slice(-1);
-  console.log(lastLetter);
   return lastLetter;
 }
 
@@ -48,6 +45,5 @@ export function backDoorResponse(line) {
  */
 export function backDoorPassword(word) {
   const formalSentence = frontDoorPassword(word) + `, please`;
-  console.log(formalSentence);
   return formalSentence;
 }
