@@ -1,5 +1,3 @@
-/* Help Annalyn free her best friend!
-
 /**
  * The fast attack is available when the knight is sleeping
  *
